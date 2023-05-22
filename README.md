@@ -12,8 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Kevin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kevin | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 [twitter]: https://twitter.com/kevinmrobertsIT
 [linkedin]: https://linkedin.com/in/kevin-m-roberts
